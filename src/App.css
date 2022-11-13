@@ -1,0 +1,18 @@
+body {
+  color: #083160;
+  background-color: #f8f8f8;
+}
+
+.button-create {
+  color: #ffffff;
+  background-color: #083160;
+  border: none;
+  padding: 7px 15px;
+}
+
+.button-create:hover {
+  color: #ffffff;
+  background-color: #0d4687;
+}
+
+
